@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=IntegerArrayStack
+comment0.text=\r\n\ IntegerArrayStack\ -\ this\ class\ allows\ us\ to\ create\ stacks\ of\ Integers,\r\n\ implemented\ by\ using\ an\ array\r\n\r\n\ @author\ Carissa\r\n\ @version\ 9/13\r\n
+comment1.params=
+comment1.target=IntegerArrayStack()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=maxSize
+comment2.target=IntegerArrayStack(int)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=boolean\ empty()
+comment5.params=
+comment5.target=java.lang.Integer\ peek()
+comment6.params=
+comment6.target=java.lang.Integer\ pop()
+comment7.params=item
+comment7.target=java.lang.Integer\ push(java.lang.Integer)
+comment8.params=
+comment8.target=void\ clear()
+comment9.params=search
+comment9.target=int\ search(java.lang.Integer)
+numComments=11
